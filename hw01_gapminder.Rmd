@@ -1,1 +1,25 @@
-Test set
+---
+title: "hw01_gapminder.Rmd"
+author: "Becky"
+date: '2018-09-08'
+output: github_document
+
+---
+
+# Data exploration using the gapminder data set
+
+## Required Libraries
+```{r}
+library("gapminder")
+```
+
+## Dataset exploration and QC
+```{r}
+head(gapminder)
+summary(gapminder)
+dim(gapminder)
+#is.na(gapminder)
+#gapm <- na.omit(gapminder)
+```
+
+
