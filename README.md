@@ -22,9 +22,10 @@ _Among the things we do in the lab involve understanding:_
 * *Single cell genomics of cancer*
 * *Mutational signatures in DNA repair deficient cancers*
 * *Selection and drug response*
-  * *Why do some patients respond to treatment while others do not? ~~:wonder:~~ :thinking:*
+  * *Why do some patients respond to treatment while others do not?* ~~:wonder:~~ :thinking:*
 
 ##Code blocks
+`4^3 = 64`
 <p> Example Code:</p>
 <pre><code>if(z > 0){
   print("Number greater than zero")
