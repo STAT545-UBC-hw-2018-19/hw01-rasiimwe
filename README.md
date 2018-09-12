@@ -24,4 +24,15 @@ _Among the things we do in the lab involve understanding:_
 * *Selection and drug response*
   * *Why do some patients respond to treatment while others do not? ~~:wonder:~~ :thinking:*
 
+##Cod blocks
+<p> Example Code:</p>
+<pre><code>if(z > 0){
+  print("Number greater than zero")
+} 
+else 
+{
+  print("Number less than zero")
+}
+</code></pre>
+
 
