@@ -22,7 +22,8 @@ _Among the things we do in the lab involve understanding:_
 * *Single cell genomics of cancer*
 * *Mutational signatures in DNA repair deficient cancers*
 * *Selection and drug response*
-  * *Why do some patients respond to treatment while others do not?* ~~:wonder:~~ :thinking:*
+  * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: :sad:
+    * Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand diseases more and find drugable targets for non responsive patients
 
 In line code: `4^3 = 64` 
 
