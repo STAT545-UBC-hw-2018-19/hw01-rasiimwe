@@ -8,7 +8,16 @@ Data exploration using the gapminder data set
 
 ### Required Libraries
 
+``` r
+library(gapminder)
+require(plyr)
+```
+
     ## Loading required package: plyr
+
+``` r
+library(dplyr)
+```
 
     ## Warning: package 'dplyr' was built under R version 3.5.1
 
@@ -28,6 +37,12 @@ Data exploration using the gapminder data set
     ## 
     ##     intersect, setdiff, setequal, union
 
+``` r
+library(ggplot2)
+library(gapminder)
+gapminder ##calling entire gapminder dataset
+```
+
     ## # A tibble: 1,704 x 6
     ##    country     continent  year lifeExp      pop gdpPercap
     ##    <fct>       <fct>     <int>   <dbl>    <int>     <dbl>
@@ -43,7 +58,15 @@ Data exploration using the gapminder data set
     ## 10 Afghanistan Asia       1997    41.8 22227415      635.
     ## # ... with 1,694 more rows
 
+``` r
+max(gapminder$year) 
+```
+
     ## [1] 2007
+
+``` r
+min(gapminder$year)
+```
 
     ## [1] 1952
 

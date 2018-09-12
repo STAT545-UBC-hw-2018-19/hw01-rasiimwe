@@ -10,7 +10,7 @@ output: github_document
 
 ### Required Libraries
 
-```{r, echo=FALSE}
+```{r}
 library(gapminder)
 require(plyr)
 library(dplyr)
