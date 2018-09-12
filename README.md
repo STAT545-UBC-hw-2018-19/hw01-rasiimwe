@@ -20,10 +20,10 @@ _Among the things we do in the lab involve understanding:_
 1. *Cancer Evolution*
 2. *Software developent*
 3. *Single cell genomics of cancer*
-4. *Mutational signatures in DNA repair deficient cancers*
-5. *Selection and drug response*
+4. *Selection and drug response*
   * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: 
     * Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand diseases more and find drugable targets for non responsive patients
+5. *Mutational signatures in DNA repair deficient cancers*
 
 In line code: `4^3 = 64` 
 
