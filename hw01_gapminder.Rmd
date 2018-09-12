@@ -9,7 +9,7 @@ output: github_document
 # Data exploration using the gapminder data set
 
 ### Required Libraries
-```{r}
+```{r, echo=FALSE}
 library(gapminder)
 require(plyr)
 library(dplyr)
