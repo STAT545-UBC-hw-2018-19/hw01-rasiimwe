@@ -24,8 +24,10 @@ _Among the things we do in the lab involve understanding:_
 * *Selection and drug response*
   * *Why do some patients respond to treatment while others do not?* ~~:wonder:~~ :thinking:*
 
+In line code: `4^3 = 64` 
+
 ##Code blocks
-`4^3 = 64`
+
 <p> Example Code:</p>
 <pre><code>if(z > 0){
   print("Number greater than zero")
