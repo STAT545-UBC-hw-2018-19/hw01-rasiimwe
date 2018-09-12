@@ -18,14 +18,14 @@ My name is Rebecca Asiimwe. I am a masters student in the [MSc. Bioinformatics p
 
 __Among the things we do in the lab involve understanding__
 
-1. *Cancer Evolution*
-2. *Software developent*
-3. *Single cell genomics of cancer*
-4. *Selection and drug response*
-  * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: 
-    + Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand diseases more and find drugable targets for non responsive patients
-    - The tumor-micro environemts differ and also have a large bearing on tumor evolution
-5. *Mutational signatures in DNA repair deficient cancers*
+> 1. *Cancer Evolution*
+> 2. *Software developent*
+> 3. *Single cell genomics of cancer*
+> 4. *Selection and drug response*
+> >  * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: 
+> > >    + Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand diseases more and find drugable targets for non responsive patients
+> > >    - The tumor-micro environemts differ and also have a large bearing on tumor evolution
+> 5. *Mutational signatures in DNA repair deficient cancers*
 
 In line code: `4^3 = 64` 
 
