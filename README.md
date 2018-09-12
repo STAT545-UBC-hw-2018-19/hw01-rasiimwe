@@ -43,7 +43,10 @@ else
 ## more html embeded --> table
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Monday</td>
+    </tr>
+ <tr>
+        <td>Tuesday</td>
     </tr>
 </table>
 
