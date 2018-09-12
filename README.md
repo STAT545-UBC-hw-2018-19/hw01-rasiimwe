@@ -17,12 +17,12 @@ My name is Rebecca Asiimwe. I am a masters student in the [MSc. Bioinformatics p
 <p align = "justify"> I am currenly working on using data from whole genome seqeuncing to understand the underlying molecular and genomic underpinings behind Triple Negative Breast Cancer which is the most aggresive type of Breast Cancer. My work also takes on a database drive appoach of probing mutations using postrgesql and thereon conducting data analysis using python and R. I am currenlty based at the [BC Cancer Agency](http://www.bccancer.bc.ca) and work in the [Computational Biology lab](http://shahlab.ca) of Dr. Sohrab Shah</p> 
 _Among the things we do in the lab involve understanding:_
 
-* *Cancer Evolution*
-* *Software developent*
-* *Single cell genomics of cancer*
-* *Mutational signatures in DNA repair deficient cancers*
-* *Selection and drug response*
-  * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: :sad:
+1. *Cancer Evolution*
+2. *Software developent*
+3. *Single cell genomics of cancer*
+4. *Mutational signatures in DNA repair deficient cancers*
+5. *Selection and drug response*
+  * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: 
     * Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand diseases more and find drugable targets for non responsive patients
 
 In line code: `4^3 = 64` 
