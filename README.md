@@ -23,7 +23,7 @@ __Among the things we do in the lab involve understanding__
 > 3. *Single cell genomics of cancer*
 > 4. *Selection and drug response*
 > >  * *Why do some patients respond to treatment and others dont?* ~~:wonder:~~ :thinking: 
-> > >    + Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand diseases more and find drugable targets for non responsive patients
+> > >    + Well, we all have different genetic makeups but thanks to Next Generation Sequencing, we are begining to understand complex diseases more and advances into finding drugable targets for non responsive patients are underway with some major breakthroughs reported in some cancer types like HER-2 dependant breast cancers.
 > > >    - The tumor-micro environemts differ and also have a large bearing on tumor evolution
 > 5. *Mutational signatures in DNA repair deficient cancers*
 ---
