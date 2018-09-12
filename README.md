@@ -22,6 +22,6 @@ __Among the things we do in the lab involve understanding:__
 * *Single cell genomics of cancer*
 * *Mutational signatures in DNA repair deficient cancers*
 * *Selection and drug response*
-  * *Why do some patients respond to treatment while others do not? :wonder:*
+  * *Why do some patients respond to treatment while others do not? ~~:wonder:~~ :thinking:*
 
 
