@@ -30,7 +30,7 @@
 My name is \*Rebecca Asiimwe\*. I am a masters student in the [MSc. Bioinformatics program](http://www.bioinformatics.ubc.ca) at UBC. I come from an IT background that heavily revolved around working with computer networks,information systems, programming and working with databases; I have a Bachelor of Science degree in Information Technology and a Masters degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics and I am loving it :smile:
 
 ## Current Research
-[<img align ="left" src="https://github.com/rasiimwe/tester/blob/master/Plugins/gif1.gif" width="300" height="300"/>](https://github.com/rasiimwe/tester/blob/master/Plugins/gif1.gif)
+[<img align ="left" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif)
 I am currenly working on using data from whole genome seqeuncing to understand the underlying molecular and genomic underpinings behind Triple Negative Breast Cancer which is the most aggresive type of Breast Cancer. 
 
 My work also takes on a database driven approach of probing mutations and thereon conducting data analysis using python and R. I am currenlty based at the [BC Cancer Agency](http://www.bccancer.bc.ca) and work in the [Computational Biology lab](http://shahlab.ca) of Dr. Sohrab Shah
@@ -64,7 +64,7 @@ My work also takes on a database driven approach of probing mutations and thereo
 
 
 ## The Awesomeness of R in a Nutshell
-[<img align ="center" src="https://github.com/rasiimwe/tester/blob/master/Plugins/R-community.jpg" width="300" height="130"/>](https://github.com/rasiimwe/tester/blob/master/Plugins/R-community.jpg) |[<img align ="center" src="https://github.com/rasiimwe/tester/blob/master/Plugins/data_wrangler.png" width="200" height="130"/>](https://github.com/rasiimwe/tester/blob/master/Plugins/data_wrangler.png)|[<img align ="center" src="https://github.com/rasiimwe/tester/blob/master/Plugins/r-vizualization.png" width="200" height="130"/>](https://github.com/rasiimwe/tester/blob/master/Plugins/r-vizualization.png)|[<img align ="center" src="https://github.com/rasiimwe/tester/blob/master/Plugins/machine-learning-1.png" width="200" height="130"/>](https://github.com/rasiimwe/tester/blob/master/Plugins/machine-learning-1.png)
+[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/R-community.jpg" width="300" height="130"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/R-community.jpg) |[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/data_wrangler.png" width="200" height="130"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/data_wrangler.png)|[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/r-vizualization.png" width="200" height="130"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/r-vizualization.png)|[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/machine-learning-1.png" width="200" height="130"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/machine-learning-1.png)
 ---|---|---|---
 [Wide usage in academia; enourmous availability of resources; active coding community; freely available as an open source tool](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Awesom at data wrangling!](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Great with data visualization](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Provides ample tools for machine learning](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)
 
@@ -115,7 +115,7 @@ Plt.ylabel(count)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**R's posibilities into data visualization** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Basketball - Epic fake plays -- simply awesome**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/rasiimwe/tester/blob/master/Plugins/viz3.jpg" width="200" height="200">](https://www.youtube.com/watch?v=VsyLrCBs0wQ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/rasiimwe/tester/blob/master/Plugins/basket.jpg" width="300" height="200">](https://www.youtube.com/watch?v=ZKYLaHoKIJw&t=1s)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/viz3.jpg" width="200" height="200">](https://www.youtube.com/watch?v=VsyLrCBs0wQ) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/basket.jpg" width="300" height="200">](https://www.youtube.com/watch?v=ZKYLaHoKIJw&t=1s)
 
 
 
@@ -123,7 +123,7 @@ Plt.ylabel(count)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**A programmer's life!** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hitler uses git!!!!!!!!** :laughing:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/rasiimwe/tester/blob/master/Plugins/progrmr.jpg" width="200" height="200">](https://www.youtube.com/watch?v=_Nua3Cjdik0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://news-cdn.softpedia.com/images/news2/Hitler-Furious-About-GIT-and-Linus-Is-the-Funniest-Thing-You-ll-See-Today-429546-2.jpg" width="300" height="200">](https://www.youtube.com/watch?v=CDeG4S-mJts)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/progrmr.jpg" width="200" height="200">](https://www.youtube.com/watch?v=_Nua3Cjdik0)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://news-cdn.softpedia.com/images/news2/Hitler-Furious-About-GIT-and-Linus-Is-the-Funniest-Thing-You-ll-See-Today-429546-2.jpg" width="300" height="200">](https://www.youtube.com/watch?v=CDeG4S-mJts)
 
 &nbsp;
 
@@ -157,7 +157,7 @@ My friends call me "smiling machine" :blush: :blush:
 - [x] Try new colors
 - [x] Choose to be joyful regardless :dancer: :dancer:
 
-[<img align ="right" src="https://github.com/rasiimwe/tester/blob/master/Plugins/france-clipart-au-revoir-8.jpg" width="100" height="100">](https://github.com/rasiimwe/tester/blob/master/Plugins/france-clipart-au-revoir-8.jpg)
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/france-clipart-au-revoir-8.jpg" width="100" height="100">](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/france-clipart-au-revoir-8.jpg)
 
 &nbsp;
 
@@ -165,11 +165,11 @@ My friends call me "smiling machine" :blush: :blush:
 
 ### _**You can follow me on:**_ 
 
-[<img src="https://github.com/rasiimwe/tester/blob/master/Plugins/Unknown.png" width="30" height="32">](https://github.com/rasiimwe)
-[<img src="https://github.com/STAT540-UBC/zz_asiimwe-rebecca_STAT540_2017/blob/master/Practice-Assignment/Assignment1_files/figure-html/Twitter.jpg">](https://twitter.com/rasiimwe)
-[<img src="https://github.com/STAT540-UBC/zz_asiimwe-rebecca_STAT540_2017/blob/master/Practice-Assignment/Assignment1_files/figure-html/facebook.jpg">](https://www.facebook.com/search/top/?q=Rebecca+Asiimwe&init=public)
-[<img src="https://github.com/STAT540-UBC/zz_asiimwe-rebecca_STAT540_2017/blob/master/Practice-Assignment/Assignment1_files/figure-html/ResearchGate.png">](https://www.researchgate.net/profile/Rebecca_Asiimwe/)
-[<img src="https://github.com/STAT540-UBC/zz_asiimwe-rebecca_STAT540_2017/blob/master/Practice-Assignment/Assignment1_files/figure-html/Linkedin.png">](https://www.linkedin.com/feed/)
+[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/Unknown.png" width="30" height="32">](https://github.com/rasiimwe)
+[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/Twitter.jpg">](https://twitter.com/rasiimwe)
+[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/facebook.jpg">](https://www.facebook.com/search/top/?q=Rebecca+Asiimwe&init=public)
+[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/ResearchGate.png">](https://www.researchgate.net/profile/Rebecca_Asiimwe/)
+[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/Linkedin.png">](https://www.linkedin.com/feed/)
 
 
 
