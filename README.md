@@ -3,18 +3,18 @@
 
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 
--   [A Quick Walk Through My Repo](#a-quick-walk-through-my-repo)
--   [About Me](#about-me)
--   [Current Research](#current-research)
--   [Why STAT545](#why-stat545)
--   [The Awesomeness of R in a Nutshell](#the-awesomeness-of-r-in-a-nutshell)
-	-   [Useful Markdown Capabilities](#useful-r-markdown-capabilities)
-		-   [Support for the LaTeX mathematical typesetting language](#support-for-the-latex-mathematical-typesetting-language)
-    	 	-   [Supports intergration of code blocks](#supports-intergration-of-code-blocks)
-    	 	-   [Markdown also supports intergration of youtube videos through links](#markdown-also-supports-intergration-of-youtube-videos-through-links)
--   [Fun Facts](#fun-facts)
-    -   [Life Dares](#life-dares)	
--   [Follow Me](#you-can-follow-me-on)	
+-   [1 A Quick Walk Through My Repo](#a-quick-walk-through-my-repo)
+-   [2 About Me](#about-me)
+-   [3 Current Research](#current-research)
+-   [4 Why STAT545](#why-stat545)
+-   [5 The Awesomeness of R in a Nutshell](#the-awesomeness-of-r-in-a-nutshell)
+	-   [5.1 Useful Markdown Capabilities](#useful-r-markdown-capabilities)
+		-   [5.1.1 Support for the LaTeX mathematical typesetting language](#support-for-the-latex-mathematical-typesetting-language)
+    	 	-   [5.1.2 Supports intergration of code blocks](#supports-intergration-of-code-blocks)
+    	 	-   [5.1.3 Markdown also supports intergration of youtube videos through links](#markdown-also-supports-intergration-of-youtube-videos-through-links)
+-   [6 Fun Facts](#fun-facts)
+    -   [6.1 Life Dares](#life-dares)	
+-   [7 Follow Me](#you-can-follow-me-on)	
 
 
 ##  A Quick Walk Through My Repo:
