@@ -18,15 +18,15 @@
 
 
 ## A Quick Walk Through My Repo:
-|   **Main File**   | **Description** |
+|   **Main Files**   | **Description** |
 |----------------|------------|
-|[README.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/README.md)|The readme.md file provides an overview of the ghist of my repo |
+|[README.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides a presentation of the numerouse markdown features available in the markdown language |
 |[hw01_gapminder.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/hw01_gapminder.md)| Data analysis and exploration of the gapminder dataset using R |
-|[Plugins](https://github.com/STAT545-UBC-students/hw01-rasiimwe/tree/master/Plugins) directory | This directory maintains all auxillary files like images used for this repo|
+|[Plugins](https://github.com/STAT545-UBC-students/hw01-rasiimwe/tree/master/Plugins) directory | This directory maintains all auxillary files like images used for the files in this repo|
 
 ## About Me:
 
-My name is \*Rebecca Asiimwe\*. I am a masters student in the [MSc. Bioinformatics program](http://www.bioinformatics.ubc.ca) at UBC. I come from an IT background that heavily revolved around working with computer networks,information systems, programming and working with databases; I have a Bachelor of Science degree in Information Technology and a Masters degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics and I am loving it :smile:
+My name is \*Rebecca Asiimwe\*. I am a masters student in the [MSc. Bioinformatics program](http://www.bioinformatics.ubc.ca) at UBC. I come from an IT background that heavily revolved around working with computer networks, information systems, programming and working with databases; I have a Bachelor of Science degree in Information Technology and a Masters degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics and I am loving it :smile:
 
 ## Current Research
 [<img align ="left" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif)
@@ -79,6 +79,7 @@ My work also takes on a database driven approach of probing mutations and thereo
 
 ### Supports intergration of code blocks
 
+These two expressions appear in line: (1) $\sqrt{b^2 - 4ac}$ (2) $\frac{4z^3}{16}$
 
 <p> Example Code:</p>
 <pre><code>if(z > 0){
