@@ -1,9 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
-
 # STAT545A Homework 1 Repository of Rebecca Asiimwe 
 ### Hi & Welcome to my [STAT545](https://github.com/STAT545-UBC) homework 1 repo. 
 
