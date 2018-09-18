@@ -165,7 +165,7 @@ My friends call me "smiling machine" :blush: :blush:
 
 ### _**You can follow me on:**_ 
 
-[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/Unknown.png" width="30" height="32">](https://github.com/rasiimwe)
+[<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/github.png" width="30" height="32">](https://github.com/rasiimwe)
 [<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/Twitter.jpg">](https://twitter.com/rasiimwe)
 [<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/facebook.jpg">](https://www.facebook.com/search/top/?q=Rebecca+Asiimwe&init=public)
 [<img src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/ResearchGate.png">](https://www.researchgate.net/profile/Rebecca_Asiimwe/)
