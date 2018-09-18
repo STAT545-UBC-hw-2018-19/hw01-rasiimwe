@@ -22,7 +22,7 @@
 |----------------|------------|
 |[README.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/README.md)|The readme.md file provides an overview of the ghist of my repo |
 |[hw01_gapminder.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/hw01_gapminder.md)      | Data analysis and exploration of the gapminder dataset using R   |
-|[plugins](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/plugins) directory
+|[Plugins](https://github.com/STAT545-UBC-students/hw01-rasiimwe/tree/master/Plugins) directory
 |Maintains all auxillary files like images used for this repo|
 
 ## About Me:
