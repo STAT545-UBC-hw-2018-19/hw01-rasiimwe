@@ -18,7 +18,7 @@
 
 
 ##  A Quick Walk Through My Repo:
-|   **File**   | **Description** |
+|   **Main File**   | **Description** |
 |----------------|------------|
 |[README.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/README.md)|The readme.md file provides an overview of the ghist of my repo |
 |[hw01_gapminder.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/hw01_gapminder.md)| Data analysis and exploration of the gapminder dataset using R |
