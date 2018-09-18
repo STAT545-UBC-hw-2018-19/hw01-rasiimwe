@@ -17,18 +17,18 @@
 -   [7 Follow Me](#you-can-follow-me-on)	
 
 
-##  A Quick Walk Through My Repo:
+##  1 A Quick Walk Through My Repo:
 |   **Main File**   | **Description** |
 |----------------|------------|
 |[README.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/README.md)|The readme.md file provides an overview of the ghist of my repo |
 |[hw01_gapminder.md](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/hw01_gapminder.md)| Data analysis and exploration of the gapminder dataset using R |
 |[Plugins](https://github.com/STAT545-UBC-students/hw01-rasiimwe/tree/master/Plugins) directory | This directory maintains all auxillary files like images used for this repo|
 
-## About Me:
+## 2 About Me:
 
 My name is \*Rebecca Asiimwe\*. I am a masters student in the [MSc. Bioinformatics program](http://www.bioinformatics.ubc.ca) at UBC. I come from an IT background that heavily revolved around working with computer networks,information systems, programming and working with databases; I have a Bachelor of Science degree in Information Technology and a Masters degree in Information Technology; however, I still seemed to be inclined to Biology!!!. My love for Biology drove me into Bioinformatics and I am loving it :smile:
 
-## Current Research
+## 3 Current Research
 [<img align ="left" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/gif1.gif)
 I am currenly working on using data from whole genome seqeuncing to understand the underlying molecular and genomic underpinings behind Triple Negative Breast Cancer which is the most aggresive type of Breast Cancer. 
 
@@ -58,18 +58,18 @@ My work also takes on a database driven approach of probing mutations and thereo
 	4. FBI
 	
 ---
-## Why STAT545 
+## 4 Why STAT545 
 <p align = "justify">Over the past year, I have grown a strong love and desire for data wrangling, exploration, and analysis both in R and Python :ok_hand:. I took STAT545 as a way of introducing me to key concepts required for me to succeed as a data analyst and scientist. The data I work with is high dimensional biological data and getting exposed to the concepts required to work with such datasets will go a long way in helping me analyse and interpret this data.
 
 
-## The Awesomeness of R in a Nutshell
+## 5 The Awesomeness of R in a Nutshell
 [<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/R-community.jpg" width="300" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) |[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/data_wrangler.png" width="200" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)|[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/r-vizualization.png" width="200" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)|[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/machine-learning-1.png" width="200" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)
 ---|---|---|---
 [Wide usage in academia; enourmous availability of resources; active coding community; freely available as an open source tool](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Awesom at data wrangling!](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Great with data visualization](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Provides ample tools for machine learning](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)
 
-## Useful R Markdown Capabilities
+## 5.1 Useful R Markdown Capabilities
 
-### Support for the LaTeX mathematical typesetting language
+### 5.1.1 Support for the LaTeX mathematical typesetting language
 > Produces nice-looking documents with R input and output neatly formatted. Examples hereunder:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\sqrt{b^2&space;-&space;4ac}$" target="_blank"><img align ="center"  src="https://latex.codecogs.com/gif.latex?$\sqrt{b^2&space;-&space;4ac}$" title="$\sqrt{b^2 - 4ac}$" /></a>
@@ -77,7 +77,7 @@ My work also takes on a database driven approach of probing mutations and thereo
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$$\int_0^{2\pi}&space;\sin&space;x~dx$$" target="_blank"><img  align ="center"  src="https://latex.codecogs.com/gif.latex?$$\int_0^{2\pi}&space;\sin&space;x~dx$$" title="$$\int_0^{2\pi} \sin x~dx$$" /></a>
 
-### Supports intergration of code blocks
+### 5.1.2 Supports intergration of code blocks
 
 
 <p> Example Code:</p>
@@ -109,7 +109,7 @@ plt.hst(gap_transpose.ix[year].dropna().values, bins=10)
 plt.xlabel(“gdp per capita”)
 Plt.ylabel(count)
 ```
-### Markdown also supports intergration of youtube videos through links
+### 5.1.3 Markdown also supports intergration of youtube videos through links
 > Check out these interesting videos:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**R's posibilities into data visualization** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Basketball - Epic fake plays -- simply awesome**
@@ -136,7 +136,7 @@ Before I bolt out of here :paw_prints: :paw_prints: :paw_prints:  `some fun fact
 <!-- [![programmer](https://github.com/rasiimwe/tester/blob/master/Plugins/progrmr.jpg)](https://www.youtube.com/watch?v=_Nua3Cjdik0) -->
 <!-- [![hitler uses git](https://news-cdn.softpedia.com/images/news2/Hitler-Furious-About-GIT-and-Linus-Is-the-Funniest-Thing-You-ll-See-Today-429546-2.jpg)](https://www.youtube.com/watch?v=CDeG4S-mJts) -->
 
-## Fun facts 
+## 6 Fun facts 
 &nbsp;
 :dancer: :dancer: :dancer: :dancer:
 &nbsp;
@@ -148,7 +148,7 @@ Before I bolt out of here :paw_prints: :paw_prints: :paw_prints:  `some fun fact
 My friends call me "smiling machine" :blush: :blush: 
 
 
-### Life dares
+### 6.1 Life dares
 
 - [ ] Mountain climbing
 - [ ] Horse riding
