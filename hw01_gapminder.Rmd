@@ -8,35 +8,35 @@ output: github_document
 
 # Data exploration using the gapminder data set
 
--   [1 Preliminary requirements for data exploration](#preliminary-requirements-for-data-exploration)
-    -   [1.1 Loading required packages](#loading-required-packages)
-    -   [1.2 Loading exploration dataset](#loading-exploration-dataset)
--   [2 Dataset Inspection and QC](#dataset-inspection-and-qc) 
-    -   [2.1 Inspecting the dataset](#inspecting-the-dataset)
-    -   [2.2 Quality Control](#quality-control)
--   [3 Data exploration](#data-exploration)
-    -   [3.1 Distribution of GDP Per Capita across all countries in 2007](#distribution-of-gdp-per-capita-across-all-countries-in-2007)
-    -   [3.2 Distribution of GDP Per Capita across all countries in 1952](#distribution-of-gdp-per-capita-across-all-countries-in-1952)
-    -   [3.3 Population distribution across all countries in 2007](#population-distribution-across-all-countries-in-2007)
-    -   [3.4 Population distribution across all countries in 1952](#population-distribution-across-all-countries-in-1952)
-    -   [3.5 Sanity check on population across entire dataset](#sanity-check-on-population-across-entire-dataset)
-        -   [3.5.1 Identifying outliers](#identifying-outliers)
-    -   [3.6 Distribution of life expectancy across all countries in 2007](#distribution-of-life-expectancy-across-all-countries-in-2007)
-    -   [3.7 Distribution of life expectancy across all countries in 1952](#distribution-of-life-expectancy-across-all-countries-in-1952)
-    -   [3.8 Density plots of GDP per capita by continent](#density-plots-of-gdp-per-capita-by-continent)
-        -   [3.8.1 In the year 1952](#in-the-year-1952)
-        -   [3.8.2 In the year 2007](#in-the-year-2007)
-    -   [3.9 Density plots of life expectancy by continent](#density-plots-of-life-expectancy-by-continent)
-        -   [3.9.1 In the year 1952](#in-the-year-1952)
-        -   [3.9.2 In the year 2007](#in-the-year-2007)
-    -   [3.10 Correlation between GDP per capita and life expectancy](#correlation-between-gdp-per-capita-and-life-expectancy)
-        -   [3.10.1  In Canada](#in-canada)
-        -   [3.10.2 Overall](#overall)
-    -   [3.11 Continental representation of GDP per capita Vs life expectancy](#continental-representation-of-gdp-per-capita-vs-life-expectancy)
-    -   [3.12 Continental representation of GDP per capita Vs life expectancy in 1952 and 2007](#continental-representation-of-gdp-per-capita-vs-life-expectancy)
-    -   [3.13 Sanity check of GDP per capita Vs life expectancy of all continents](#sanity-check-of-gdp-per-capita-vs-life-expectancy-of-all-continents)
-    -   [3.14 Sanity check comparing GDP per capita across all continents](#sanity-check-comparing-gdp-per-capita-across-all-continents)
-    -   [3.15 Sanity check comparing life expectancy across all continents](#sanity-check-comparing-life expectancy-across-all-continents)
+-   [Preliminary requirements for data exploration](#preliminary-requirements-for-data-exploration)
+    -   [Loading required packages](#loading-required-packages)
+    -   [Loading exploration dataset](#loading-exploration-dataset)
+-   [Dataset Inspection and QC](#dataset-inspection-and-qc) 
+    -   [Inspecting the dataset](#inspecting-the-dataset)
+    -   [Quality Control](#quality-control)
+-   [Data exploration](#data-exploration)
+    -   [Distribution of GDP Per Capita across all countries in 2007](#distribution-of-gdp-per-capita-across-all-countries-in-2007)
+    -   [Distribution of GDP Per Capita across all countries in 1952](#distribution-of-gdp-per-capita-across-all-countries-in-1952)
+    -   [Population distribution across all countries in 2007](#population-distribution-across-all-countries-in-2007)
+    -   [Population distribution across all countries in 1952](#population-distribution-across-all-countries-in-1952)
+    -   [Sanity check on population across entire dataset](#sanity-check-on-population-across-entire-dataset)
+        -   [Identifying outliers](#identifying-outliers)
+    -   [Distribution of life expectancy across all countries in 2007](#distribution-of-life-expectancy-across-all-countries-in-2007)
+    -   [Distribution of life expectancy across all countries in 1952](#distribution-of-life-expectancy-across-all-countries-in-1952)
+    -   [Density plots of GDP per capita by continent](#density-plots-of-gdp-per-capita-by-continent)
+        -   [In the year 1952](#in-the-year-1952)
+        -   [In the year 2007](#in-the-year-2007)
+    -   [Density plots of life expectancy by continent](#density-plots-of-life-expectancy-by-continent)
+        -   [In the year 1952](#in-the-year-1952)
+        -   [In the year 2007](#in-the-year-2007)
+    -   [Correlation between GDP per capita and life expectancy](#correlation-between-gdp-per-capita-and-life-expectancy)
+        -   [In Canada](#in-canada)
+        -   [Overall](#overall)
+    -   [Continental representation of GDP per capita Vs life expectancy](#continental-representation-of-gdp-per-capita-vs-life-expectancy)
+    -   [Continental representation of GDP per capita Vs life expectancy in 1952 and 2007](#continental-representation-of-gdp-per-capita-vs-life-expectancy)
+    -   [Sanity check of GDP per capita Vs life expectancy of all continents](#sanity-check-of-gdp-per-capita-vs-life-expectancy-of-all-continents)
+    -   [Sanity check comparing GDP per capita across all continents](#sanity-check-comparing-gdp-per-capita-across-all-continents)
+    -   [Sanity check comparing life expectancy across all continents](#sanity-check-comparing-life-expectancy-across-all-continents)
 
 ### 1. Preliminary requirements for data exploration
 
@@ -148,14 +148,14 @@ barplot(set_2007$gdpPercap, ylab="gdppercap", names.arg =set_2007$country,border
 
 ```
 
-As we can see, there is a variable distribution of gdp per capita across all countries in 2007, with some countries having a very high gdp per capita compated to other countries.
+As we can see, there is a variable distribution of gdp per capita across all countries in 2007, with some countries having a very high gdp per capita compared to other countries.
 Also to note is that, the x axis is taking on so many names when we run:
 
 ```{r}
 nrow(set_2007)#$country)
 ```
 
-We can see that the number of countries are 142. Methods to make the plot using the "space" and "width" parameters were not helpful. However, we can still get an overview of the distribution of gdp per capita across ther countries. Of interest would to subset the data further and look into specifi scenarios. 
+We can see that the number of countries are 142. Methods to make the plot using the "space" and "width" parameters were not helpful. However, we can still get an overview of the distribution of gdp per capita across the countries. Of interest would be to subset the data further and look into specific scenarios. 
 
 
 #### 3.2 Distribution of GDP Per Capita across all countries in 1952
@@ -166,7 +166,7 @@ set_1952 <- dataset %>% filter(year==1952)
 barplot(set_1952$gdpPercap, ylab="gdppercap", names.arg =set_1952$country,border ='black',las=3,xpd = TRUE, axes = TRUE, axisnames = TRUE, cex.axis=1, cex.names=0.5,col="deepskyblue")
 ```
 
-From the above plot, we can see that there is an outlier that can heavily skew the data set. A futher look into the maximum, minimum and average gdp per capita in both 2007 and 1952:
+From the above plot, we can see that there is an outlier that can heavily skew the data set. Let's take a futher look into the maximum, minimum and average gdp per capita in both 2007 and 1952:
 
 ```{r}
 # 2007
@@ -195,7 +195,7 @@ barplot(set_2007$pop, ylab="population", names.arg =set_2007$country,border ='bl
 barplot(set_1952$pop,ylab="population", names.arg =set_1952$country,border ='black',las=3,xpd = TRUE, axes = TRUE, axisnames = TRUE, cex.axis=1, cex.names=0.5, col="deepskyblue")
 ```
 
-There is a similar partern in country populations, however the populatoin in 2007 is much higher than it was in 1952.
+There is a similar pattern in country populations, however the populatoin in 2007 is much higher than it was in 1952.
 
 #### 3.5 Sanity check on population across entire dataset
 
@@ -231,7 +231,7 @@ dataset[dataset$pop == 1230075000,]
 #scatter.smooth(dataset$gdpPercap)
 ```
 
-Still China!!!! (2002)
+Still China in 1997!!! 
 
 #### 3.6 Distribution of life expectancy across all countries in 2007
 ```{r}
@@ -259,7 +259,7 @@ filter(year == 1952)
 gdp_1952 %>% ggplot(aes(x = gdpPercap, fill = continent)) + facet_wrap(~year) + geom_density(alpha = 0.5) + ggtitle("Density plots of gdpPercap in 1952 for each continent and across all countries") + theme(legend.title = element_text(color = "gray", size = 14, face = "bold"), legend.background = element_rect(fill = "gray80",size = 0.2, linetype = "dashed")) + labs(x="gdpPercap", y="Density")+scale_fill_manual( values = c("orange","blue","maroon","darkgreen","midnightblue"))
 ```
 
-We can see that the gdp per capita in 1952 was mostly between 0 and 2000, with Africa reporting the lowest  gdp per capita followed by Asia. We can also  see multi-model distributions in Americas and Asia with most observations or countries having a relatively lower  gdp per capita but with few countries having a slightly higher  gdp per capita compared to others.
+We can see that the gdp per capita in 1952 was mostly between 0 and 2000, with Africa reporting the lowest  gdp per capita followed by Asia. We can also  see multi-model distributions in Americas and Asia with most observations or countries having a relatively lower gdp per capita but with few countries having a slightly higher  gdp per capita compared to others.
 
 ##### 3.8.2 In the year 2007
 ```{r}
@@ -268,7 +268,7 @@ filter(year == 2007)
 gdp_2007 %>% ggplot(aes(x = gdpPercap, fill = continent)) + facet_wrap(~year) + geom_density(alpha = 0.5) + ggtitle("Density plots of  gdp per capita in 2007 for each continent and across all countries") + theme(legend.title = element_text(color = "gray", size = 14, face = "bold"), legend.background = element_rect(fill = "gray80",size = 0.2, linetype = "dashed")) + labs(x=" gdp per capita", y="Density")+scale_fill_manual( values = c("orange","blue","maroon","darkgreen","midnightblue"))
 ```
 
-Here we can mostly see an improvement in  gdp per capita in all continents, however, Africa still has the lowest  gdp per capita. As an example, we can see a bi-model distribution of  gdp per capita in Oceania with almost half of the countries having a  gdp per capita at ~26000 while the other half are doing much better at ~34000. Americas has a multi-model distribution with most countries being in the range of 500-100 while we see some countries breaking out and having a much higher  gdp per capita 3600 and 4300 respectively. This shows an intra and inter continenental variation in  gdp per capita.
+Here we can mostly see an improvement in  gdp per capita in all continents, however, Africa still has the lowest  gdp per capita. As an example, we can see a bi-model distribution of  gdp per capita in Oceania with almost half of the countries having a  gdp per capita at ~26000 while the other half are doing much better at ~34000. Americas has a multi-model distribution with most countries being in the range of 500-100 while we see a few countries breaking out and having a much higher  gdp per capita, 3600 and 4300 respectively. This shows an intra and inter continenental variation in  gdp per capita.
 
 #### 3.9 Density plots of life expectancy by continent
 ##### 3.9.1 In the year 1952
