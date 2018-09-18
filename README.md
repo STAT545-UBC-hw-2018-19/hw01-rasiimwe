@@ -81,6 +81,8 @@ My work also takes on a database driven approach of probing mutations and thereo
 
 These two expressions appear in line: (1) $\sqrt{b^2 - 4ac}$ (2) $\frac{4z^3}{16}$
 
+$$\alpha =5+2$$ In line equation: $\alpha =5+2$
+
 <p> Example Code:</p>
 <pre><code>if(z > 0){
   print("Number greater than zero")
