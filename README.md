@@ -7,7 +7,7 @@ output:
 # STAT545A Homework 1 Repository of Rebecca Asiimwe 
 ### Hi & Welcome to my [STAT545](https://github.com/STAT545-UBC) homework 1 repo. 
 
-[<img align ="right" src="https://github.com/rasiimwe/tester/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/rasiimwe/tester/blob/master/Plugins/header.jpg)
+[<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 
 -   [A Quick Walk Through My Repo](#a-quick-walk-through-my-repo)
 -   [About Me](#about-me)
