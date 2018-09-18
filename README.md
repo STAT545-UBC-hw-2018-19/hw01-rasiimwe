@@ -35,9 +35,6 @@ I am currenly working on using data from whole genome seqeuncing to understand t
 My work also takes on a database driven approach of probing mutations and thereon conducting data analysis using python and R. I am currenlty based at the [BC Cancer Agency](http://www.bccancer.bc.ca) and work in the [Computational Biology lab](http://shahlab.ca) of Dr. Sohrab Shah
 
 ***
-&nbsp;
-
-
 **Among the things we do in the lab involve understanding:**
 
 
