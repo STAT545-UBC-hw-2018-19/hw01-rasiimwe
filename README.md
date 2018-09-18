@@ -3,7 +3,7 @@
 
 [<img align ="right" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg" width="300" height="300"/>](https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/header.jpg)
 
--   [1 A Quick Walk Through My Repo](#a-quick-walk-through-my-repo)
+-   [1 A Quick Walk Through My Repo](#1 a-quick-walk-through-my-repo)
 -   [2 About Me](#about-me)
 -   [3 Current Research](#current-research)
 -   [4 Why STAT545](#why-stat545)
