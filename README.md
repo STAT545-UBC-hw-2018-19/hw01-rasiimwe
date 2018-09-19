@@ -59,18 +59,18 @@ My work also takes on a database driven approach of probing mutations and thereo
 	
 ---
 ## Why STAT545 
-<p align = "justify">Over the past year, I have grown a strong love and desire for data wrangling, exploration, and analysis both in R and Python :ok_hand:. I took STAT545 as a way of introducing me to key concepts required for me to succeed as a data analyst and scientist. The data I work with is high dimensional biological data and getting exposed to the concepts required to work with such datasets will go a long way in helping me analyse and interpret this data.
+<p align = "justify">Over the past year, I have grown a strong love and desire for data wrangling, exploration, and analysis both in R and Python :ok_hand:. I took STAT545 as a way of introducing me to key concepts required for me to succeed as a data analyst and scientist. The data I work with is high dimensional biological data and getting exposed to the concepts required to work with such datasets will go a long way in helping me analyse and interprete this data.
 
 
 ## The Awesomeness of R in a Nutshell
 [<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/R-community.jpg" width="300" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) |[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/data_wrangler.png" width="200" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)|[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/r-vizualization.png" width="200" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)|[<img align ="center" src="https://github.com/STAT545-UBC-students/hw01-rasiimwe/blob/master/Plugins/machine-learning-1.png" width="200" height="130"/>](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)
 ---|---|---|---
-[Wide usage in academia; enourmous availability of resources; active coding community; freely available as an open source tool](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Awesom at data wrangling!](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Great with data visualization](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Provides ample tools for machine learning](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)
+[Wide usage in academia; enormous availability of resources; active coding community; freely available as an open source tool](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Awesome at data wrangling!](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Great with data visualization](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects) | [Provides ample tools for machine learning](https://www.newgenapps.com/blog/6-reasons-why-choose-r-programming-for-data-science-projects)
 
 ## Useful R Markdown Capabilities
 
 ### Support for the LaTeX mathematical typesetting language
-> Produces nice-looking documents with R input and output neatly formatted. Examples hereunder:
+> Produces well formatted documents with latex typsetting support. Examples hereunder:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$\sqrt{b^2&space;-&space;4ac}$" target="_blank"><img align ="center"  src="https://latex.codecogs.com/gif.latex?$\sqrt{b^2&space;-&space;4ac}$" title="$\sqrt{b^2 - 4ac}$" /></a>
 
@@ -127,7 +127,7 @@ Plt.ylabel(count)
 
 ***
 
-Before I bolt out of here :paw_prints: :paw_prints: :paw_prints:  `some fun facts` :point_down:
+##### Before I bolt out of here :paw_prints: :paw_prints: :paw_prints:  `some fun facts` :point_down:
 
 
 <!-- [![R: rotating 3D globes](https://github.com/rasiimwe/tester/blob/master/Plugins/viz3.jpg)](https://www.youtube.com/watch?v=VsyLrCBs0wQ "R: rotating 3D globes")  -->
